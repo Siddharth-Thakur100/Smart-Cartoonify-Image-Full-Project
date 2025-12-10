@@ -1,4 +1,4 @@
-<h1 align="center"><b>SMART CARTOONIFY IMAGE GENERATOR</b></h1>
+<h1 align="left"><b>SMART CARTOONIFY IMAGE GENERATOR</b></h1>
 
 Overview
 
