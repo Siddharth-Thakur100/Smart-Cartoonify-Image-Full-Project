@@ -1,5 +1,5 @@
-Smart Cartoonify Image Generator
-AI-powered image cartoonification using Computer Vision + Deep Learning
+<h1 align="center"><b>SMART CARTOONIFY IMAGE GENERATOR</b></h1>
+
 Overview
 
 Smart Cartoonify is an AI-based image transformation system that converts real photographs into cartoon-style artwork.
